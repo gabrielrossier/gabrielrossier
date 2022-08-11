@@ -10,7 +10,7 @@
 
 ---
 
-Currently working on projects for DarkBot plugins
+Currently working on projects on a DarkBot plugin
 
 ---
 
